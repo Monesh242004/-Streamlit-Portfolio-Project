@@ -111,25 +111,6 @@ It also demonstrates my ability to build and deploy interactive applications usi
 
 ---
 
-## 📸 Portfolio Preview
-
-```text
-Add screenshots of:
-1. Home Page
-2. Education Page
-3. Contact Page
-```
-
-For example:
-
-```markdown
-![Home Page](<img width="1912" height="861" alt="Screenshot 2026-08-30 225254" src="https://github.com/user-attachments/assets/5312bb26-9ab2-4f5e-92d9-e3b69a249366" />
-)
-![Education Page](screenshots/education.png)
-![Contact Page](screenshots/contact.png)
-```
----
-
 ## 📬 Connect With Me
 
 🔗 **LinkedIn:**
